@@ -1,10 +1,8 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://10.10.18.187:8080/NBR/linux/10.7.2/10.7.2.69768._GA.sh"
-SHA256="8b9bd3d2cecda3084ccc6f3bdf18ca23e3879811319bd77ad9daf26b500c6944"
-#URL="http://10.10.18.187:8080/NBR/linux/10.8.0/10.8.0.71744_GA.sh"
-#SHA256="83dc614960ae4ffa9adbd5e0c429d6c4c331e2ff81cee140ce2caa47f6e58f83"
+URL="http://10.10.18.187:8080/NBR/linux/10.9.0/10.9.0.71941.sh"
+SHA256="2dfa670a9ba5def152172887ec514c5cf0e5e01b1a10afd22ecfed42c2d3cf3a"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
