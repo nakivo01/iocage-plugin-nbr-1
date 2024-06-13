@@ -9,7 +9,7 @@ PRODUCT='NAKIVO Backup & Replication'
 #URL="http://10.10.16.37:208/10.11.1.82517.sh"
 #SHA256="bc9c91c2482322fff0bec1001630a39eec1982bbcf565cdebdb65a2e34092e9e"
 
-URL=""http://10.10.16.37:208/10.7.2.69768"
+URL="http://10.10.16.37:208/10.7.2.69768.sh"
 SHA256="8b9bd3d2cecda3084ccc6f3bdf18ca23e3879811319bd77ad9daf26b500c6944"
 
 # URL="http://10.10.18.187:8080/NBR/linux/10.11/10.11.0.76317.sh"
