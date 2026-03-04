@@ -2,8 +2,11 @@
 
 PRODUCT='NAKIVO Backup & Replication'
 
-URL="http://10.10.17.11:208/11.2.0.101107.sh"
-SHA256="57a9acdcdec5c2934d9a0e71dc337ea2365905f53eb66d3a6511b701abe4aaef"
+#URL="http://10.10.17.11:208/11.2.0.101107.sh"
+#SHA256="57a9acdcdec5c2934d9a0e71dc337ea2365905f53eb66d3a6511b701abe4aaef"
+
+URL="https://d111xps0uy3x00.cloudfront.net/res/product/custom/11.2/NAKIVO_Backup_Replication_v11.2.0.101187_Installer-TRIAL.sh"
+SHA256="f3e46eab42c5f3825d9acdc81c16d6e21a51c3d29d5472c41465118fd3b8f606"
 
 #URL="http://10.10.17.11:208/11.1.0.100381_mspc.sh"
 #SHA256="46d6416a153ef9c2abb413057ee9cb9358899d5949967fce1d03a8fa1cff5000"
