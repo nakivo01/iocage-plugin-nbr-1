@@ -2,8 +2,8 @@
 
 PRODUCT='NAKIVO Backup & Replication'
 
-URL="http://10.10.18.60:208/11.2.1.104303.sh"
-SHA256="c4c908fc941be3454012c3fb129e8cedac62c3c2f168f51f324c8d591c0e3a26"
+URL="https://d111xps0uy3x00.cloudfront.net/res/product/packages/11.2.1/transporter-linux-installer.sh"
+SHA256="def7320ee07f525da132b8caa5bb4bdd830c644cdfb6ff7d6d1a78cf85ecba61"
 
 #URL="http://10.10.17.11:208/11.1.0.98634.sh"
 #SHA256="20a36e1a9fc371ea9f0d831b17c6edacbade16360477c663d42bdca2d784a5a7"
