@@ -2,8 +2,8 @@
 
 PRODUCT='NAKIVO Backup & Replication'
 
-URL="http://10.10.18.60:208/11.1.0.103765.sh"
-SHA256="cd9ef3a26894c3f33ce6ed24aeb33f7bec81ba47dc4040fb2a1dfdb027eef1e7"
+URL="http://10.10.18.60:208/11.3.0.110172.sh"
+SHA256="1820baccdcd1f0de4451705b77f1db1d868c2e8ebd69a9e7dd0b4a6fa8393786"
 
 #URL="http://10.10.17.11:208/11.1.0.98634.sh"
 #SHA256="20a36e1a9fc371ea9f0d831b17c6edacbade16360477c663d42bdca2d784a5a7"
